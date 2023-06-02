@@ -12,10 +12,16 @@ Tecnologias: Python, IDE ou Editor de código de sua preferência, bibliotecas(u
 1 - Baixar arquivo do DunegonQuest
 
 2 - Descompactar o arquivo .zip baixado
+
 3 - Rodar o Script do banco de dados no MYSQL
+
 4 - Abrir o editor de código
+
 5 - Alterar os campos de password e nome do banco de dados para utilizá-lo no código
+
 6 - Rodar pynstaller com o arquivo do código no terminal e gerar o executável
+
 7 - Abrir o executável e rodar o jogo
+
 8 - FIM!
 
