@@ -18,11 +18,3 @@ Tecnologias: Python, IDE ou Editor de código de sua preferência, bibliotecas(u
 7 - Abrir o executável e rodar o jogo
 8 - FIM!
 
-Participantes:
-Luiz Felipe Balaminute dos Santos
-Bruno Kenji Saito
-Vitor Augusto Rodello Rodriguez 
-Gabriel Silva Garcia
-Marcos Oliveira de Freitas  
-Thiago Vieira Messias da Silva 
-Tiago Hiray Hisatugo 
