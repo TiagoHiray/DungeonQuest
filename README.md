@@ -10,6 +10,7 @@ INSTRUÇÕES PARA USO E TECNOLOGIAS NECESSÁRIAS:
 Tecnologias: Python, IDE ou Editor de código de sua preferência, bibliotecas(utilizar pip install para instalá-las), MySQL e a biblioteca pynstaller.
 
 1 - Baixar arquivo do DunegonQuest
+
 2 - Descompactar o arquivo .zip baixado
 3 - Rodar o Script do banco de dados no MYSQL
 4 - Abrir o editor de código
