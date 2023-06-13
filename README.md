@@ -17,7 +17,7 @@ Tecnologias: Python, IDE ou Editor de código de sua preferência, bibliotecas(u
 
 4 - Abrir o editor de código
 
-5 - Alterar os campos de password e nome do banco de dados para utilizá-lo no código
+5 - Alterar os campos de password  do banco de dados para utilizá-lo no código
 
 6 - Rodar pynstaller com o arquivo do código no terminal e gerar o executável
 
