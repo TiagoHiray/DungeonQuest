@@ -20,7 +20,7 @@ tokenSala VARCHAR(6) NOT NULL,
 qntdJogadores INT NOT NULL,
 levels INT NOT NULL,
 donoSala INT NOT NULL UNIQUE
--- FOREIGN KEY (materia) REFERENCES Questoes(materia)
+FOREIGN KEY (materia) REFERENCES Questoes(materia)
 );
 
 CREATE TABLE Usuario(
@@ -28,13 +28,13 @@ idUsuario INT PRIMARY KEY AUTO_INCREMENT,
 idSala INT,
 loginUsuario VARCHAR(30) NOT NULL UNIQUE,
 senhaUsuario VARCHAR(30) NOT NULL
--- FOREIGN KEY (idSala) REFERENCES Sala(idSala)
+FOREIGN KEY (idSala) REFERENCES Sala(idSala)
 );
 
 CREATE TABLE UsuarioSala(
 idSala INT NOT NULL,
 idUsuario INT
--- FOREIGN KEY (idUsuario) REFERENCES Usuario(idUsuario)
+FOREIGN KEY (idUsuario) REFERENCES Usuario(idUsuario)
 );
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INSERT INTO questoes (materia, enunciado, alternativa_a, alternativa_b, alternativa_c, alternativa_d, resposta_correta, justificativa)
