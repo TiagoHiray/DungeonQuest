@@ -9,6 +9,8 @@ INSTRUÇÕES PARA USO E TECNOLOGIAS NECESSÁRIAS:
 
 Tecnologias: Python, IDE ou Editor de código de sua preferência, bibliotecas(utilizar pip install para instalá-las), MySQL e a biblioteca pynstaller.
 
+Primeira opção(Executável):
+
 1 - Baixar arquivo do DunegonQuest
 
 2 - Descompactar o arquivo .zip baixado
@@ -25,3 +27,10 @@ Tecnologias: Python, IDE ou Editor de código de sua preferência, bibliotecas(u
 
 8 - FIM!
 
+-----------------------------------------------------------------------------------------------------
+
+Segunda Opção(.py):
+
+1 - Seguir até o passo 5 da primeira opção
+
+2 - Ao invés de criar um executável, apenas rodar o arquivo login_cadastro.py no próprio editor de código
