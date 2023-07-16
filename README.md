@@ -7,7 +7,7 @@ Projeto Integrador - Instituto Mauá de Tecnologia
 Gabriel Garcia, Luiz Felipe Balaminute, Marcos Oliveira, Tiago Hiray
 
 
-INSTRUÇÕES PARA USO E TECNOLOGIAS NECESSÁRIAS:
+# Instruções para uso e Tecnologias Necessárias
 
 Tecnologias: Python, IDE ou Editor de código de sua preferência, bibliotecas(utilizar pip install para instalá-las), MySQL e a biblioteca pynstaller.
 
