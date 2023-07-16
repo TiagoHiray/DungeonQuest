@@ -4,7 +4,10 @@ Projeto Integrador - Instituto Mauá de Tecnologia
 - Jogo com fusão entre o estilo RPG com progressão de personagens/fases e  Quiz com mecânica de turnos (acertar uma pergunta te permite uma ação, errar gera uma ação do inimigo).
 
 # Integrantes
-Gabriel Garcia, Luiz Felipe Balaminute, Marcos Oliveira, Tiago Hiray
+-Gabriel Garcia
+-Luiz Felipe Balaminute
+-Marcos Oliveira
+-Tiago Hiray
 
 
 # Instruções para uso e Tecnologias Necessárias
