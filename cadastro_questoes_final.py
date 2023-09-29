@@ -74,7 +74,7 @@ def principal():
     customtkinter.set_default_color_theme(color_string="blue")
 
     #Background
-    img1=ImageTk.PhotoImage(Image.open("C:/Users/tihir/Downloads/dungeon_quest-main (3)/dungeon_quest-main/game/backquest.jpg"))
+    img1=ImageTk.PhotoImage(Image.open("/game/backquest.jpg"))
     l1=customtkinter.CTkLabel(master=app,image=img1)
     l1.pack()
 
